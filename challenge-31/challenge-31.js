@@ -10,5 +10,5 @@ o link do pull request no `console.log` abaixo.
 Faça um pull request, também com a branch `challenge-31`, mas no repositório
 do curso, para colar o link do pull request do seu repo.
 */
-
-console.log('Link do pull request do seu projeto');
+var link = 'https://github.com/lucasmaiaesilva/car-store/commit/2348b6db8ab86930e24d9250a711e8978120fa7b';
+console.log('Link do pull request do seu projeto', link);
